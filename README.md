@@ -3,7 +3,7 @@
 
 Данная публикация создана для сбора идей и предложений по улучшению платформы 1С
 
-Все предложения будут фиксироваться на GitHub (https://github.com/SeiOkami/OneS/issues) и Telegram-канале (https://t.me/UnionOneS). 
+Все предложения будут фиксироваться на GitHub (https://github.com/SeiOkami/OneS/issues/created_by/SeiOkami) и Telegram-канале (https://t.me/UnionOneS). 
 
 Если вам нравится предложение, то не забывайте за него голосовать реакцией на GitHub.
 Если есть идеи как улучшить, то пишите в комментариях.
