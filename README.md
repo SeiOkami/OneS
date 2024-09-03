@@ -1,3 +1,5 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/6/354582651.json)](https://openyellow.org/grid?data=top&repo=354582651)
+
 # OneS
 Предложения по улучшению платформы 1С
 
